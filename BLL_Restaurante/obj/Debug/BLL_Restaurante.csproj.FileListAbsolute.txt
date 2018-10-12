@@ -1,0 +1,65 @@
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.pdb
+L:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.dll
+L:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.pdb
+L:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.dll
+L:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.dll
+L:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+L:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+L:\ETEC\Restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.csprojResolveAssemblyReference.cache
+L:\ETEC\Restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.dll
+L:\ETEC\Restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.pdb
+G:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.dll
+G:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.pdb
+G:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.dll
+G:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.dll
+G:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+G:\ETEC\Restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+G:\ETEC\Restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.csprojResolveAssemblyReference.cache
+G:\ETEC\Restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.dll
+G:\ETEC\Restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.pdb
+D:\BLL_Restaurante\bin\Debug\BLL_Restaurante.dll
+D:\BLL_Restaurante\bin\Debug\BLL_Restaurante.pdb
+D:\BLL_Restaurante\bin\Debug\DAL_Restaurante.dll
+D:\BLL_Restaurante\bin\Debug\DTO_Restaurante.dll
+D:\BLL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+D:\BLL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+D:\BLL_Restaurante\obj\Debug\BLL_Restaurante.csprojResolveAssemblyReference.cache
+D:\BLL_Restaurante\obj\Debug\BLL_Restaurante.dll
+D:\BLL_Restaurante\obj\Debug\BLL_Restaurante.pdb
+G:\projeto certo restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.dll
+G:\projeto certo restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.pdb
+G:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.dll
+G:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.dll
+G:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+G:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+G:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.csprojResolveAssemblyReference.cache
+G:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.dll
+G:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.pdb
+L:\projeto certo restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.dll
+L:\projeto certo restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.pdb
+L:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.dll
+L:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.dll
+L:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+L:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+L:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.csprojResolveAssemblyReference.cache
+L:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.dll
+L:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.pdb
+E:\projeto certo restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.dll
+E:\projeto certo restaurante\BLL_Restaurante\bin\Debug\BLL_Restaurante.pdb
+E:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.dll
+E:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.dll
+E:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+E:\projeto certo restaurante\BLL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+E:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.csprojAssemblyReference.cache
+E:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.csproj.CoreCompileInputs.cache
+E:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.csproj.CopyComplete
+E:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.dll
+E:\projeto certo restaurante\BLL_Restaurante\obj\Debug\BLL_Restaurante.pdb

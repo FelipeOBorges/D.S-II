@@ -1,0 +1,108 @@
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\obj\Debug\UI_Restaurante.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\obj\Debug\UI_Restaurante.csproj.GenerateResource.Cache
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\bin\Debug\BLL_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\bin\Debug\DTO_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\bin\Debug\BLL_Restaurante.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\bin\Debug\DTO_Restaurante.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\obj\Debug\UI_Restaurante.Form1.resources
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Home.resources
+L:\ETEC\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+L:\ETEC\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+L:\ETEC\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+L:\ETEC\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+L:\ETEC\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+L:\ETEC\Restaurante\Restaurante\bin\Debug\BLL_Restaurante.dll
+L:\ETEC\Restaurante\Restaurante\bin\Debug\DTO_Restaurante.dll
+L:\ETEC\Restaurante\Restaurante\bin\Debug\BLL_Restaurante.pdb
+L:\ETEC\Restaurante\Restaurante\bin\Debug\DTO_Restaurante.pdb
+L:\ETEC\Restaurante\Restaurante\obj\Debug\UI_Restaurante.csprojResolveAssemblyReference.cache
+L:\ETEC\Restaurante\Restaurante\obj\Debug\UI_Restaurante.Form1.resources
+L:\ETEC\Restaurante\Restaurante\obj\Debug\Restaurante.Home.resources
+L:\ETEC\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+L:\ETEC\Restaurante\Restaurante\obj\Debug\UI_Restaurante.csproj.GenerateResource.Cache
+G:\ETEC\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+G:\ETEC\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+G:\ETEC\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+G:\ETEC\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+G:\ETEC\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+G:\ETEC\Restaurante\Restaurante\bin\Debug\BLL_Restaurante.dll
+G:\ETEC\Restaurante\Restaurante\bin\Debug\DTO_Restaurante.dll
+G:\ETEC\Restaurante\Restaurante\bin\Debug\BLL_Restaurante.pdb
+G:\ETEC\Restaurante\Restaurante\bin\Debug\DTO_Restaurante.pdb
+G:\ETEC\Restaurante\Restaurante\obj\Debug\UI_Restaurante.csprojResolveAssemblyReference.cache
+G:\ETEC\Restaurante\Restaurante\obj\Debug\UI_Restaurante.Form1.resources
+G:\ETEC\Restaurante\Restaurante\obj\Debug\Restaurante.Home.resources
+G:\ETEC\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+G:\ETEC\Restaurante\Restaurante\obj\Debug\UI_Restaurante.csproj.GenerateResource.Cache
+D:\Restaurante\bin\Debug\Restaurante.exe.config
+D:\Restaurante\obj\Debug\Restaurante.exe
+D:\Restaurante\obj\Debug\Restaurante.pdb
+D:\Restaurante\bin\Debug\Restaurante.exe
+D:\Restaurante\bin\Debug\Restaurante.pdb
+D:\Restaurante\bin\Debug\BLL_Restaurante.dll
+D:\Restaurante\bin\Debug\DTO_Restaurante.dll
+D:\Restaurante\bin\Debug\DAL_Restaurante.dll
+D:\Restaurante\bin\Debug\BLL_Restaurante.pdb
+D:\Restaurante\bin\Debug\DTO_Restaurante.pdb
+D:\Restaurante\bin\Debug\DAL_Restaurante.pdb
+D:\Restaurante\obj\Debug\UI_Restaurante.csprojResolveAssemblyReference.cache
+D:\Restaurante\obj\Debug\UI_Restaurante.Form1.resources
+D:\Restaurante\obj\Debug\Restaurante.Home.resources
+D:\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+D:\Restaurante\obj\Debug\UI_Restaurante.csproj.GenerateResource.Cache
+G:\projeto certo restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+G:\projeto certo restaurante\Restaurante\obj\Debug\Restaurante.exe
+G:\projeto certo restaurante\Restaurante\obj\Debug\Restaurante.pdb
+G:\projeto certo restaurante\Restaurante\bin\Debug\Restaurante.exe
+G:\projeto certo restaurante\Restaurante\bin\Debug\Restaurante.pdb
+G:\projeto certo restaurante\Restaurante\bin\Debug\BLL_Restaurante.dll
+G:\projeto certo restaurante\Restaurante\bin\Debug\DTO_Restaurante.dll
+G:\projeto certo restaurante\Restaurante\bin\Debug\DAL_Restaurante.dll
+G:\projeto certo restaurante\Restaurante\bin\Debug\BLL_Restaurante.pdb
+G:\projeto certo restaurante\Restaurante\bin\Debug\DTO_Restaurante.pdb
+G:\projeto certo restaurante\Restaurante\bin\Debug\DAL_Restaurante.pdb
+G:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.csprojResolveAssemblyReference.cache
+G:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.Form1.resources
+G:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.csproj.GenerateResource.Cache
+G:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.Home.resources
+G:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.Properties.Resources.resources
+L:\projeto certo restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+L:\projeto certo restaurante\Restaurante\obj\Debug\Restaurante.exe
+L:\projeto certo restaurante\Restaurante\obj\Debug\Restaurante.pdb
+L:\projeto certo restaurante\Restaurante\bin\Debug\Restaurante.exe
+L:\projeto certo restaurante\Restaurante\bin\Debug\Restaurante.pdb
+L:\projeto certo restaurante\Restaurante\bin\Debug\BLL_Restaurante.dll
+L:\projeto certo restaurante\Restaurante\bin\Debug\DTO_Restaurante.dll
+L:\projeto certo restaurante\Restaurante\bin\Debug\DAL_Restaurante.dll
+L:\projeto certo restaurante\Restaurante\bin\Debug\BLL_Restaurante.pdb
+L:\projeto certo restaurante\Restaurante\bin\Debug\DTO_Restaurante.pdb
+L:\projeto certo restaurante\Restaurante\bin\Debug\DAL_Restaurante.pdb
+L:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.csprojResolveAssemblyReference.cache
+L:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.Form1.resources
+L:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.Home.resources
+L:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.Properties.Resources.resources
+L:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.csproj.GenerateResource.Cache
+E:\projeto certo restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+E:\projeto certo restaurante\Restaurante\bin\Debug\Restaurante.exe
+E:\projeto certo restaurante\Restaurante\bin\Debug\Restaurante.pdb
+E:\projeto certo restaurante\Restaurante\bin\Debug\BLL_Restaurante.dll
+E:\projeto certo restaurante\Restaurante\bin\Debug\DTO_Restaurante.dll
+E:\projeto certo restaurante\Restaurante\bin\Debug\DAL_Restaurante.dll
+E:\projeto certo restaurante\Restaurante\bin\Debug\BLL_Restaurante.pdb
+E:\projeto certo restaurante\Restaurante\bin\Debug\DTO_Restaurante.pdb
+E:\projeto certo restaurante\Restaurante\bin\Debug\DAL_Restaurante.pdb
+E:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.csprojAssemblyReference.cache
+E:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.Form1.resources
+E:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.Home.resources
+E:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.Properties.Resources.resources
+E:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.csproj.GenerateResource.cache
+E:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.csproj.CoreCompileInputs.cache
+E:\projeto certo restaurante\Restaurante\obj\Debug\UI_Restaurante.csproj.CopyComplete
+E:\projeto certo restaurante\Restaurante\obj\Debug\Restaurante.exe
+E:\projeto certo restaurante\Restaurante\obj\Debug\Restaurante.pdb

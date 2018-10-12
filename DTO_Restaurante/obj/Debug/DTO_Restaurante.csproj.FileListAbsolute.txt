@@ -1,0 +1,35 @@
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.dll
+c:\users\adm\documents\visual studio 2013\Projects\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.pdb
+L:\ETEC\Restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.dll
+L:\ETEC\Restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.pdb
+L:\ETEC\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.csprojResolveAssemblyReference.cache
+L:\ETEC\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.dll
+L:\ETEC\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.pdb
+G:\ETEC\Restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.dll
+G:\ETEC\Restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.pdb
+G:\ETEC\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.dll
+G:\ETEC\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.pdb
+D:\DTO_Restaurante\bin\Debug\DTO_Restaurante.dll
+D:\DTO_Restaurante\bin\Debug\DTO_Restaurante.pdb
+D:\DTO_Restaurante\obj\Debug\DTO_Restaurante.csprojResolveAssemblyReference.cache
+D:\DTO_Restaurante\obj\Debug\DTO_Restaurante.dll
+D:\DTO_Restaurante\obj\Debug\DTO_Restaurante.pdb
+G:\projeto certo restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.dll
+G:\projeto certo restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.pdb
+G:\projeto certo restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.csprojResolveAssemblyReference.cache
+G:\projeto certo restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.dll
+G:\projeto certo restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.pdb
+L:\projeto certo restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.dll
+L:\projeto certo restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.pdb
+L:\projeto certo restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.csprojResolveAssemblyReference.cache
+L:\projeto certo restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.dll
+L:\projeto certo restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.pdb
+E:\projeto certo restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.dll
+E:\projeto certo restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.pdb
+E:\projeto certo restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.csprojAssemblyReference.cache
+E:\projeto certo restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.csproj.CoreCompileInputs.cache
+E:\projeto certo restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.dll
+E:\projeto certo restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.pdb
